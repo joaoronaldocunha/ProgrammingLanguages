@@ -2,6 +2,6 @@
 
 1. APIs
 
-- [Typescript](./tree/master/api/python3)
+- [Typescript](https://github.com/joaoronaldocunha/ProgrammingLanguages/tree/master/api/typescript)
 
-- [Python3](./tree/master/api/python3)
+- [Python3](https://github.com/joaoronaldocunha/ProgrammingLanguages/tree/master/api/python3)

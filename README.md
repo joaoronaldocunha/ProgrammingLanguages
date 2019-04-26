@@ -2,6 +2,6 @@
 
 1. APIs
 
-- [Typescript](./api/typescript)
+- [Typescript](./tree/master/api/python3)
 
-- [Python3](./api/python3)
+- [Python3](./tree/master/api/python3)
